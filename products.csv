@@ -1,8 +1,28 @@
-name,review,description,price,currency
-AeroBook 14,"Fast and lightweight; customers like the clear display.","14-inch laptop with 16 GB memory and 512 GB SSD.",999.99,USD
-PixelPhone X,"Takes sharp photos and has a bright screen.","Smartphone with a 6.4-inch OLED display and 128 GB storage.",699.00,USD
-SoundWave Headphones,"Comfortable for long listening sessions with effective noise cancellation.","Wireless over-ear headphones with active noise cancellation.",149.50,USD
-ErgoMouse Wireless,"Easy to set up and comfortable to use throughout the day.","Ergonomic wireless optical mouse with adjustable sensitivity.",39.95,USD
-KeyPro Mechanical Keyboard,"Responsive keys and a sturdy build; a good choice for daily typing.","Mechanical keyboard with quiet switches and a compact layout.",79.99,USD
-SmartWatch Active,"Useful fitness tracking and long battery life.","Water-resistant smartwatch with heart-rate and activity tracking.",189.00,USD
-Travel Mug,"Keeps drinks warm during a commute and does not leak.","Insulated stainless-steel travel mug with a 450 ml capacity.",24.95,USD
+#	Product name	Description	Price (USD)
+1	AeroBook 14	14-inch laptop, 16 GB memory, 512 GB SSD	$999.99
+2	PixelPhone X	Smartphone, 6.4-inch OLED, 128 GB storage	$699.00
+3	SoundWave Headphones	Wireless over-ear headphones with noise cancellation	$149.50
+4	ErgoMouse Wireless	Ergonomic wireless optical mouse	$39.95
+5	KeyPro Mechanical Keyboard	Compact mechanical keyboard with quiet switches	$79.99
+6	SmartWatch Active	Water-resistant smartwatch with health and activity tracking	$189.00
+7	Travel Mug	Insulated stainless-steel mug, 450 ml	$24.95
+8	ClearView HD Webcam	1080p webcam with microphones and privacy cover	$59.99
+9	PocketSSD 1TB	Portable 1 TB SSD with USB-C	$109.99
+10	AirBeat Wireless Earbuds	Wireless earbuds with charging case	$89.00
+11	HomeConnect Wi-Fi 6 Router	Dual-band router with four Gigabit Ethernet ports	$129.99
+12	ViewPoint 27 Monitor	27-inch QHD monitor with adjustable stand	$279.00
+13	Metro Laptop Backpack	Padded backpack for a 15.6-inch laptop	$49.95
+14	RapidCharge 65W Adapter	65 W USB-C charger with two USB-C ports	$44.99
+15	BrightDesk LED Lamp	Dimmable LED desk lamp with USB charging	$34.50
+16	FitTrack Band	Fitness band with step and sleep tracking	$69.99
+17	FlexiPhone Desk Stand	Adjustable aluminium smartphone stand	$19.95
+18	KeyPro Wireless Keyboard	Bluetooth keyboard with quiet keys	$54.99
+19	ErgoClick Wireless Mouse	Ergonomic mouse with adjustable DPI	$32.99
+20	FocusTalk USB Headset	USB headset with noise-reducing microphone	$39.99
+21	ConnectPlus USB-C Hub	Hub with HDMI, USB ports and SD card reader	$42.50
+22	Air	10.5-inch tablet with 128 GB storage	$229.00
+23	SmartHome Plug	Wi-Fi smart plug with scheduling	$18.99
+24	SoundGo Bluetooth Speaker	Portable, water-resistant Bluetooth speaker	$64.99
+25	HealthScale Connect	Bluetooth digital weighing scale	$29.99
+26	TravelCharge 20K	20,000 mAh USB-C power bank	$45.99
+27	LiftDesk Laptop Stand	Foldable, adjustable aluminium laptop stand	$27.50
